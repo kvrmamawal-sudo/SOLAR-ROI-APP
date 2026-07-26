@@ -1,0 +1,8 @@
+{
+  "panel_bos_php_per_kw": 15000,
+  "installation_php_per_kw": 5000,
+  "grid_tied_inverter_php_per_kw": 4000,
+  "hybrid_inverter_php_per_kw": 7000,
+  "battery_php_per_kwh": 6500,
+  "net_metering_fee_php": 50000
+}

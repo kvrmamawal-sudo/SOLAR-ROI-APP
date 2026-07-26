@@ -1,0 +1,11 @@
+{
+  "retail_rate_cagr": 0.020264086095299394,
+  "base_retail_rate_php_kwh": 15.11,
+  "base_export_rate_php_kwh": 8.84,
+  "feature_order": [
+    "brent_crude_usd_bbl",
+    "newcastle_coal_usd_ton",
+    "usd_php_rate",
+    "cpi_inflation_pct"
+  ]
+}
